@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "Tervetuloa Erakkomajaan!"
+    return "Tervetuloa Evankeliseen Erakkomajaan!"
